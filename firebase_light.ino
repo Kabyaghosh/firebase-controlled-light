@@ -2,10 +2,10 @@
 #include <WiFiManager.h>     // Install: https://github.com/tzapu/WiFiManager
 #include <FirebaseESP32.h>   // Library v3.x
 
-#define FIREBASE_HOST "smart-home-94ea7-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_API_KEY "AIzaSyArqTImm0-YrEfWEjrH6DCdY9vrJQsayIg"
-#define USER_EMAIL "kabyaghosh4@gmail.com"
-#define USER_PASSWORD "kabya@ghosh"
+#define FIREBASE_HOST "demo"
+#define FIREBASE_API_KEY "demo"
+#define USER_EMAIL "demo"
+#define USER_PASSWORD "demo"
 
 #define RELAY_PIN 2
 #define BUZZER_PIN 4
